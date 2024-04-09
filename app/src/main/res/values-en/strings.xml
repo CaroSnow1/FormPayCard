@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FormPayCard</string>
+    <string name="tx_titulo">Card payment</string>
+    <string name="nombre">Name</string>
+    <string name="num_tarjeta">Card Number</string>
+    <string name="et_num_tarjeta">0000 0000 0000 0000</string>
+    <string name="total_a_pagar">Total to pay:</string>
+    <string name="tipo_tarjeta">Card type</string>
+    <string name="fecha_expiracion">Expiration date</string>
+    <string name="cvv">CVV</string>
+    <string name="correo">Email</string>
+    <string name="hint_correo">example@mail.com</string>
+    <string name="pagar">Pay</string>
+    <string name="hint_cvv">000</string>
+    <string name="nombre_full">Name Surname Surname</string>
+    <string name="pago">$ %s</string>
+    <string name="r_nombre">%s</string>
+    <string name="r_tarjeta">%s</string>
+    <string name="res_op_exitosa">Successful operation!</string>
+    <string name="res_op_fallifa">Operation Failed!</string>
+    <string name="valor_requerido">Field is required</string>
+    <string name="ingresa_nombre">Please enter the name</string>
+    <string name="ingresa_numtarj">Please enter the card number</string>
+    <string name="ingresa_tipo">Please select a type</string>
+    <string name="ingresa_fecha">Please enter the expiration date</string>
+    <string name="ingresa_cvv">Please enter the CVV</string>
+    <string name="ingresa_correo">Please enter the email</string>
+    <string name="resumen_operacion">Operation Summary:</string>
+    <string name="resumen_cantidad">Amount:</string>
+    <string name="resumen_nom">Name:</string>
+    <string name="resumen_tarj">Card:</string>
+    <string name="r_pago">$ %s</string>
+    <string name="email_invalido">Invalid email</string>
+    <string name="cvv_invalido">Invalid CVV</string>
+    <string name="tarjeta_invalido">Invalid number</string>
+    <string name="version">Version 1.0</string>
+    <string name="hint_mes">MM</string>
+    <string name="hint_anio">AA</string>
+    <string name="text_mes">MM</string>
+    <string name="text_AA">YY</string>
+    <string name="divisor_fecha">/</string>
+    <string name="mes_invalido">Invalid month</string>
+    <string name="anio_invalido">Invalid year</string>
+    <string name="ingresa_mes">Please enter the expiration month</string>
+    <string name="ingresa_anio">Please enter the expiration year</string>
+</resources>
